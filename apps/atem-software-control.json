@@ -1,0 +1,79 @@
+{
+	"ATEM Software Control": {
+		"Name": "ATEM Software Control",
+		"Icon": "arrow.up.right.video.fill",
+		"Color": "Red",
+		"Cards": [
+			{
+				"Name": "Camera 1",
+				"Command": "Control 1",
+				"Icon": "1.circle.fill",
+				"Color": "Light Blue",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Camera 2",
+				"Command": "Control 2",
+				"Icon": "2.circle.fill",
+				"Color": "Cerulean",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Camera 3",
+				"Command": "Control 3",
+				"Icon": "3.circle.fill",
+				"Color": "Delft Blue",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Camera 4",
+				"Command": "Control 4",
+				"Icon": "4.circle.fill",
+				"Color": "Violet",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Preview 1",
+				"Command": "Command 1",
+				"Icon": "1.circle",
+				"Color": "Red",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Preview 2",
+				"Command": "Command 2",
+				"Icon": "2.circle",
+				"Color": "Vermillion",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Preview 3",
+				"Command": "Command 3",
+				"Icon": "3.circle",
+				"Color": "Apricot",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Preview 4",
+				"Command": "Command 4",
+				"Icon": "4.circle",
+				"Color": "Pollen",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Auto",
+				"Command": "return",
+				"Icon": "return",
+				"Color": "Red",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Tab",
+				"Command": "tab",
+				"Icon": "arrow.right.to.line",
+				"Color": "Vermillion",
+				"App": "ATEM Software Control"
+			}
+		]
+	}
+}
