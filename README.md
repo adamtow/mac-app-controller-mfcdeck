@@ -123,3 +123,11 @@ The following color strings are supported:
 - Fog
 - Limestone
 - Sand
+
+### Sample App Dictionaries
+
+You can view the App Dictionaries for the sample applications in this shortcut at: [https://github.com/adamtow/mac-app-controller-mfcdeck/tree/master/apps](https://github.com/adamtow/mac-app-controller-mfcdeck/tree/master/apps).
+
+If you want to submit your own apps to be included in a future version of this shortcut, submit a Pull request.
+
+
