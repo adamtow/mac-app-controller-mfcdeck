@@ -1,0 +1,163 @@
+{
+	"Mail": {
+		"Name": "Mail",
+		"Icon": "envelope.fill",
+		"Color": "Cerulean",
+		"Cards": [
+			{
+				"Name": "Get Mail",
+				"Command": "Command Shift N",
+				"Icon": "envelope.fill",
+				"Color": "Red",
+				"App": "Mail"
+			},
+			{
+				"Name": "New",
+				"Command": "Command N",
+				"Icon": "square.and.pencil",
+				"Color": "Vermillion",
+				"App": "Mail"
+			},
+			{
+				"Name": "Text Input",
+				"Shortcut": "Key Command: Threshold",
+				"Input": "input",
+				"Icon": "keyboard",
+				"Color": "Apricot"
+			},
+			{
+				"Name": "Mailboxes",
+				"Command": "Command Shift M",
+				"Icon": "sidebar.left",
+				"Color": "Pollen",
+				"App": "Mail"
+			},
+			{
+				"Name": "Archive",
+				"Command": "Command Control A",
+				"Icon": "archivebox.fill",
+				"Color": "Mint",
+				"App": "Mail"
+			},
+			{
+				"Name": "Junk",
+				"Command": "Command Shift J",
+				"Icon": "bin.xmark.fill",
+				"Color": "Sand",
+				"App": "Mail"
+			},
+			{
+				"Name": "Reply",
+				"Command": "Command R",
+				"Icon": "arrowshape.turn.up.left.fill",
+				"Color": "Turquoise",
+				"App": "Mail"
+			},
+			{
+				"Name": "Reply All",
+				"Command": "Command Shift R",
+				"Icon": "arrowshape.turn.up.left.2.fill",
+				"Color": "Light Blue",
+				"App": "Mail"
+			},
+			{
+				"Name": "Forward",
+				"Command": "Command Shift F",
+				"Icon": "arrowshape.turn.up.right.fill",
+				"Color": "Cerulean",
+				"App": "Mail"
+			},
+			{
+				"Name": "Flag",
+				"Command": "Command Shift L",
+				"Icon": "flag.fill",
+				"Color": "Red",
+				"App": "Mail"
+			},
+			{
+				"Name": "Mute",
+				"Command": "Control Shift M",
+				"Icon": "bell.slash.fill",
+				"Color": "Limestone",
+				"App": "Mail"
+			},
+			{
+				"Name": "Unread",
+				"Command": "Command Shift U",
+				"Icon": "envelope.badge",
+				"Color": "Delft Blue",
+				"App": "Mail"
+			},
+			{
+				"Name": "Fonts",
+				"Command": "Command T",
+				"Icon": "textformat.size",
+				"Color": "Violet",
+				"App": "Mail"
+			},
+			{
+				"Name": "Headers",
+				"Command": "Command Shift H",
+				"Icon": "doc.text.magnifyingglass",
+				"Color": "Sand",
+				"App": "Mail"
+			},
+			{
+				"Name": "Raw Source",
+				"Command": "Command Option U",
+				"Icon": "chevron.left.slash.chevron.right",
+				"Color": "Pink",
+				"App": "Mail"
+			},
+			{
+				"Name": "Delete",
+				"Command": "Command Delete",
+				"Icon": "trash",
+				"Color": "Sand",
+				"App": "Mail"
+			},
+			{
+				"Name": "Down",
+				"Command": "downArrow",
+				"Icon": "arrow.down",
+				"Color": "red",
+				"App": "Mail"
+			},
+			{
+				"Name": "Up",
+				"Command": "upArrow",
+				"Icon": "arrow.up",
+				"Color": "Vermillion",
+				"App": "Mail"
+			},
+			{
+				"Name": "Return",
+				"Command": "return",
+				"Icon": "return",
+				"Color": "Apricot",
+				"App": "Mail"
+			},
+			{
+				"Name": "Tab",
+				"Command": "tab",
+				"Icon": "arrow.right.to.line",
+				"Color": "Pollen",
+				"App": "Mail"
+			},
+			{
+				"Name": "Prefs",
+				"Command": "Command ,",
+				"Icon": "gear",
+				"Color": "Fog",
+				"App": "Mail"
+			},
+			{
+				"Name": "Close",
+				"Command": "Command W",
+				"Icon": "xmark.circle.fill",
+				"Color": "Red",
+				"App": "Mail"
+			}
+		]
+	}
+}
