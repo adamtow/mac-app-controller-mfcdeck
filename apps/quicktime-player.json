@@ -1,0 +1,107 @@
+{
+	"QuickTime Player": {
+		"Name": "QuickTime Player",
+		"Icon": "q.square.fill",
+		"Color": "Light Blue",
+		"Cards": [
+			{
+				"Name": "New Movie Recording",
+				"Command": "Command Option N",
+				"Icon": "video.fill",
+				"Color": "Mint",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "New Audio Recording",
+				"Command": "Command Control Option N",
+				"Icon": "mic.fill",
+				"Color": "Red",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "New Screen Recording",
+				"Command": "Command Control N",
+				"Icon": "macwindow",
+				"Color": "Apricot",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Keyboard",
+				"Shortcut": "Key Command: Threshold",
+				"Input": "input",
+				"Icon": "keyboard",
+				"Color": "Violet"
+			},
+			{
+				"Name": "Close",
+				"Command": "Command W",
+				"Icon": "xmark.circle",
+				"Color": "Red",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Enter Full Screen",
+				"Command": "Command Control F",
+				"Icon": "arrow.up.left.and.arrow.down.right",
+				"Color": "Mint",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Actual Size",
+				"Command": "Command 1",
+				"Icon": "arrow.down.right.and.arrow.up.left",
+				"Color": "Red",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Fit to Screen",
+				"Command": "Command 3",
+				"Icon": "rectangle",
+				"Color": "Violet",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Fill Screen",
+				"Command": "Command 4",
+				"Icon": "rectangle.expand.vertical",
+				"Color": "Turquoise",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Panoramic",
+				"Command": "Command 5",
+				"Icon": "rectangle.compress.vertical",
+				"Color": "Lilac",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Increase Size",
+				"Command": "Command +",
+				"Icon": "plus",
+				"Color": "Mint",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Decrease Size",
+				"Command": "Command -",
+				"Icon": "minus",
+				"Color": "Red",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Show Movie Inspector",
+				"Command": "Command I",
+				"Icon": "info.circle.fill",
+				"Color": "Pink",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Show Export Progress",
+				"Command": "Command Option P",
+				"Icon": "square.and.arrow.up",
+				"Color": "Fog",
+				"App": "QuickTime Player"
+			}
+		]
+	}
+}
