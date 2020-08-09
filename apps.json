@@ -1,0 +1,779 @@
+{
+	"ATEM Software Control": {
+		"Name": "ATEM Software Control",
+		"Icon": "arrow.up.right.video.fill",
+		"Color": "Red",
+		"Cards": [
+			{
+				"Name": "Camera 1",
+				"Command": "Control 1",
+				"Icon": "1.circle.fill",
+				"Color": "Light Blue",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Camera 2",
+				"Command": "Control 2",
+				"Icon": "2.circle.fill",
+				"Color": "Cerulean",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Camera 3",
+				"Command": "Control 3",
+				"Icon": "3.circle.fill",
+				"Color": "Delft Blue",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Camera 4",
+				"Command": "Control 4",
+				"Icon": "4.circle.fill",
+				"Color": "Violet",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Preview 1",
+				"Command": "Command 1",
+				"Icon": "1.circle",
+				"Color": "Red",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Preview 2",
+				"Command": "Command 2",
+				"Icon": "2.circle",
+				"Color": "Vermillion",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Preview 3",
+				"Command": "Command 3",
+				"Icon": "3.circle",
+				"Color": "Apricot",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Preview 4",
+				"Command": "Command 4",
+				"Icon": "4.circle",
+				"Color": "Pollen",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Auto",
+				"Command": "return",
+				"Icon": "return",
+				"Color": "Red",
+				"App": "ATEM Software Control"
+			},
+			{
+				"Name": "Tab",
+				"Command": "tab",
+				"Icon": "arrow.right.to.line",
+				"Color": "Vermillion",
+				"App": "ATEM Software Control"
+			}
+		]
+	},
+	"Finder": {
+		"Name": "Finder",
+		"Icon": "macwindow",
+		"Color": "Delft Blue",
+		"Cards": [
+			{
+				"Name": "Keyboard",
+				"Shortcut": "Key Command: Threshold",
+				"Input": "input",
+				"Icon": "keyboard",
+				"Color": "Violet"
+			},
+			{
+				"Name": "Open",
+				"Command": "Command O",
+				"Icon": "arrow.up.right.square",
+				"Color": "Mint",
+				"App": "Finder"
+			},
+			{
+				"Name": "Close",
+				"Command": "Command W",
+				"Icon": "xmark.circle",
+				"Color": "Red",
+				"App": "Finder"
+			},
+			{
+				"Name": "Cycle Windows",
+				"Command": "Command `",
+				"Icon": "rectangle.on.rectangle",
+				"Color": "Pollen",
+				"App": "Finder"
+			},
+			{
+				"Name": "Red",
+				"Command": "Control 1",
+				"Icon": "circle",
+				"Color": "Red",
+				"App": "Finder"
+			},
+			{
+				"Name": "Orange",
+				"Command": "Control 2",
+				"Icon": "circle",
+				"Color": "Vermillion",
+				"App": "Finder"
+			},
+			{
+				"Name": "Yellow",
+				"Command": "Control 3",
+				"Icon": "circle",
+				"Color": "Pollen",
+				"App": "Finder"
+			},
+			{
+				"Name": "Green",
+				"Command": "Control 4",
+				"Icon": "circle",
+				"Color": "Mint",
+				"App": "Finder"
+			},
+			{
+				"Name": "Blue",
+				"Command": "Control 5",
+				"Icon": "circle",
+				"Color": "Delft Blue",
+				"App": "Finder"
+			},
+			{
+				"Name": "Purple",
+				"Command": "Control 6",
+				"Icon": "circle",
+				"Color": "Violet",
+				"App": "Finder"
+			},
+			{
+				"Name": "Gray",
+				"Command": "Control 7",
+				"Icon": "circle",
+				"Color": "Fog",
+				"App": "Finder"
+			},
+			{
+				"Name": "New Finder Window",
+				"Command": "Command N",
+				"Icon": "macwindow",
+				"Color": "Delft Blue",
+				"App": "Finder"
+			},
+			{
+				"Name": "New Folder",
+				"Command": "Command Shift N",
+				"Icon": "folder.fill",
+				"Color": "Mint",
+				"App": "Finder"
+			},
+			{
+				"Name": "Recents",
+				"Command": "Command Shift F",
+				"Icon": "tray.full.fill",
+				"Color": "Fog",
+				"App": "Finder"
+			},
+			{
+				"Name": "Documents",
+				"Command": "Command Shift O",
+				"Icon": "doc.on.doc",
+				"Color": "Limestone",
+				"App": "Finder"
+			},
+			{
+				"Name": "Desktop",
+				"Command": "Command Shift D",
+				"Icon": "rectangle.dock",
+				"Color": "Delft Blue",
+				"App": "Finder"
+			},
+			{
+				"Name": "Downloads",
+				"Command": "Option Command L",
+				"Icon": "arrow.down.circle.fill",
+				"Color": "Violet",
+				"App": "Finder"
+			},
+			{
+				"Name": "Home",
+				"Command": "Command Shift H",
+				"Icon": "house",
+				"Color": "Vermillion",
+				"App": "Finder"
+			},
+			{
+				"Name": "Computer",
+				"Command": "Command Shift C",
+				"Icon": "desktopcomputer",
+				"Color": "Cerulean",
+				"App": "Finder"
+			},
+			{
+				"Name": "AirDrop",
+				"Command": "Command Shift R",
+				"Icon": "dot.radiowaves.left.and.right",
+				"Color": "Pink",
+				"App": "Finder"
+			},
+			{
+				"Name": "Network",
+				"Command": "Command Shift K",
+				"Icon": "globe",
+				"Color": "Delft Blue",
+				"App": "Finder"
+			},
+			{
+				"Name": "iCloud Drive",
+				"Command": "Command Shift I",
+				"Icon": "cloud",
+				"Color": "Limestone",
+				"App": "Finder"
+			},
+			{
+				"Name": "Applications",
+				"Command": "Command Shift A",
+				"Icon": "a.square.fill",
+				"Color": "Red",
+				"App": "Finder"
+			},
+			{
+				"Name": "Utilities",
+				"Command": "Command Shift U",
+				"Icon": "hammer",
+				"Color": "Sand",
+				"App": "Finder"
+			}
+		]
+	},
+	"Mail": {
+		"Name": "Mail",
+		"Icon": "envelope.fill",
+		"Color": "Cerulean",
+		"Cards": [
+			{
+				"Name": "Get Mail",
+				"Command": "Command Shift N",
+				"Icon": "envelope.fill",
+				"Color": "Red",
+				"App": "Mail"
+			},
+			{
+				"Name": "New",
+				"Command": "Command N",
+				"Icon": "square.and.pencil",
+				"Color": "Vermillion",
+				"App": "Mail"
+			},
+			{
+				"Name": "Text Input",
+				"Shortcut": "Key Command: Threshold",
+				"Input": "input",
+				"Icon": "keyboard",
+				"Color": "Apricot"
+			},
+			{
+				"Name": "Mailboxes",
+				"Command": "Command Shift M",
+				"Icon": "sidebar.left",
+				"Color": "Pollen",
+				"App": "Mail"
+			},
+			{
+				"Name": "Archive",
+				"Command": "Command Control A",
+				"Icon": "archivebox.fill",
+				"Color": "Mint",
+				"App": "Mail"
+			},
+			{
+				"Name": "Junk",
+				"Command": "Command Shift J",
+				"Icon": "bin.xmark.fill",
+				"Color": "Sand",
+				"App": "Mail"
+			},
+			{
+				"Name": "Reply",
+				"Command": "Command R",
+				"Icon": "arrowshape.turn.up.left.fill",
+				"Color": "Turquoise",
+				"App": "Mail"
+			},
+			{
+				"Name": "Reply All",
+				"Command": "Command Shift R",
+				"Icon": "arrowshape.turn.up.left.2.fill",
+				"Color": "Light Blue",
+				"App": "Mail"
+			},
+			{
+				"Name": "Forward",
+				"Command": "Command Shift F",
+				"Icon": "arrowshape.turn.up.right.fill",
+				"Color": "Cerulean",
+				"App": "Mail"
+			},
+			{
+				"Name": "Flag",
+				"Command": "Command Shift L",
+				"Icon": "flag.fill",
+				"Color": "Red",
+				"App": "Mail"
+			},
+			{
+				"Name": "Mute",
+				"Command": "Control Shift M",
+				"Icon": "bell.slash.fill",
+				"Color": "Limestone",
+				"App": "Mail"
+			},
+			{
+				"Name": "Unread",
+				"Command": "Command Shift U",
+				"Icon": "envelope.badge",
+				"Color": "Delft Blue",
+				"App": "Mail"
+			},
+			{
+				"Name": "Fonts",
+				"Command": "Command T",
+				"Icon": "textformat.size",
+				"Color": "Violet",
+				"App": "Mail"
+			},
+			{
+				"Name": "Headers",
+				"Command": "Command Shift H",
+				"Icon": "doc.text.magnifyingglass",
+				"Color": "Sand",
+				"App": "Mail"
+			},
+			{
+				"Name": "Raw Source",
+				"Command": "Command Option U",
+				"Icon": "chevron.left.slash.chevron.right",
+				"Color": "Pink",
+				"App": "Mail"
+			},
+			{
+				"Name": "Delete",
+				"Command": "Command Delete",
+				"Icon": "trash",
+				"Color": "Sand",
+				"App": "Mail"
+			},
+			{
+				"Name": "Down",
+				"Command": "downArrow",
+				"Icon": "arrow.down",
+				"Color": "red",
+				"App": "Mail"
+			},
+			{
+				"Name": "Up",
+				"Command": "upArrow",
+				"Icon": "arrow.up",
+				"Color": "Vermillion",
+				"App": "Mail"
+			},
+			{
+				"Name": "Return",
+				"Command": "return",
+				"Icon": "return",
+				"Color": "Apricot",
+				"App": "Mail"
+			},
+			{
+				"Name": "Tab",
+				"Command": "tab",
+				"Icon": "arrow.right.to.line",
+				"Color": "Pollen",
+				"App": "Mail"
+			},
+			{
+				"Name": "Prefs",
+				"Command": "Command ,",
+				"Icon": "gear",
+				"Color": "Fog",
+				"App": "Mail"
+			},
+			{
+				"Name": "Close",
+				"Command": "Command W",
+				"Icon": "xmark.circle.fill",
+				"Color": "Red",
+				"App": "Mail"
+			}
+		]
+	},
+	"QuickTime Player": {
+		"Name": "QuickTime Player",
+		"Icon": "q.square.fill",
+		"Color": "Light Blue",
+		"Cards": [
+			{
+				"Name": "New Movie Recording",
+				"Command": "Command Option N",
+				"Icon": "video.fill",
+				"Color": "Mint",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "New Audio Recording",
+				"Command": "Command Control Option N",
+				"Icon": "mic.fill",
+				"Color": "Red",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "New Screen Recording",
+				"Command": "Command Control N",
+				"Icon": "macwindow",
+				"Color": "Apricot",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Keyboard",
+				"Shortcut": "Key Command: Threshold",
+				"Input": "input",
+				"Icon": "keyboard",
+				"Color": "Violet"
+			},
+			{
+				"Name": "Close",
+				"Command": "Command W",
+				"Icon": "xmark.circle",
+				"Color": "Red",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Enter Full Screen",
+				"Command": "Command Control F",
+				"Icon": "arrow.up.left.and.arrow.down.right",
+				"Color": "Mint",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Actual Size",
+				"Command": "Command 1",
+				"Icon": "arrow.down.right.and.arrow.up.left",
+				"Color": "Red",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Fit to Screen",
+				"Command": "Command 3",
+				"Icon": "rectangle",
+				"Color": "Violet",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Fill Screen",
+				"Command": "Command 4",
+				"Icon": "rectangle.expand.vertical",
+				"Color": "Turquoise",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Panoramic",
+				"Command": "Command 5",
+				"Icon": "rectangle.compress.vertical",
+				"Color": "Lilac",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Increase Size",
+				"Command": "Command +",
+				"Icon": "plus",
+				"Color": "Mint",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Decrease Size",
+				"Command": "Command -",
+				"Icon": "minus",
+				"Color": "Red",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Show Movie Inspector",
+				"Command": "Command I",
+				"Icon": "info.circle.fill",
+				"Color": "Pink",
+				"App": "QuickTime Player"
+			},
+			{
+				"Name": "Show Export Progress",
+				"Command": "Command Option P",
+				"Icon": "square.and.arrow.up",
+				"Color": "Fog",
+				"App": "QuickTime Player"
+			}
+		]
+	},
+	"Xcode-beta": {
+		"Name": "Xcode-beta",
+		"Icon": "hammer.fill",
+		"Color": "Delft Blue",
+		"Cards": [
+			{
+				"Name": "Keyboard",
+				"Shortcut": "Key Command: Threshold",
+				"Input": "input",
+				"Icon": "keyboard",
+				"Color": "Violet"
+			},
+			{
+				"Name": "Clean Build Folder",
+				"Command": "Command Shift K",
+				"Icon": "paintbrush.fill",
+				"Color": "Limestone",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Build",
+				"Command": "Command B",
+				"Icon": "Hammer",
+				"Color": "Mint",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Run",
+				"Command": "Command R",
+				"Icon": "play.fill",
+				"Color": "Red",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Archive",
+				"Command": "Command Control Shift Option A",
+				"Icon": "archivebox.fill",
+				"Color": "Pollen",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Commit",
+				"Command": "Command Option C",
+				"Icon": "arrow.up.right.diamond.fill",
+				"Color": "Vermillion",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Find in Workspace",
+				"Command": "Command Shift F",
+				"Icon": "magnifyingglass",
+				"Color": "Light Blue",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Toggle Debug Area",
+				"Command": "Command Shift Y",
+				"Icon": "ant.fill",
+				"Color": "Fog",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Toggle Code Review",
+				"Command": "Command Option Shift return",
+				"Icon": "chevron.left.slash.chevron.right",
+				"Color": "Violet",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Organizer",
+				"Command": "Command Option Shift O",
+				"Icon": "cube.box.fill",
+				"Color": "Turquoise",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Devices and Simulators",
+				"Command": "Command Shift 2",
+				"Icon": "desktopcomputer",
+				"Color": "Lilac",
+				"App": "Xcode-beta"
+			}
+		]
+	},
+	"Xcode": {
+		"Name": "Xcode",
+		"Icon": "hammer.fill",
+		"Color": "Delft Blue",
+		"Cards": [
+			{
+				"Name": "Keyboard",
+				"Shortcut": "Key Command: Threshold",
+				"Input": "input",
+				"Icon": "keyboard",
+				"Color": "Violet"
+			},
+			{
+				"Name": "Clean Build Folder",
+				"Command": "Command Shift K",
+				"Icon": "paintbrush.fill",
+				"Color": "Limestone",
+				"App": "Xcode"
+			},
+			{
+				"Name": "Build",
+				"Command": "Command B",
+				"Icon": "Hammer",
+				"Color": "Mint",
+				"App": "Xcode"
+			},
+			{
+				"Name": "Run",
+				"Command": "Command R",
+				"Icon": "play.fill",
+				"Color": "Red",
+				"App": "Xcode"
+			},
+			{
+				"Name": "Archive",
+				"Command": "Command Control Shift Option A",
+				"Icon": "archivebox.fill",
+				"Color": "Pollen",
+				"App": "Xcode"
+			},
+			{
+				"Name": "Commit",
+				"Command": "Command Option C",
+				"Icon": "arrow.up.right.diamond.fill",
+				"Color": "Vermillion",
+				"App": "Xcode"
+			},
+			{
+				"Name": "Find in Workspace",
+				"Command": "Command Shift F",
+				"Icon": "magnifyingglass",
+				"Color": "Light Blue",
+				"App": "Xcode"
+			},
+			{
+				"Name": "Toggle Debug Area",
+				"Command": "Command Shift Y",
+				"Icon": "ant.fill",
+				"Color": "Fog",
+				"App": "Xcode"
+			},
+			{
+				"Name": "Toggle Code Review",
+				"Command": "Command Option Shift return",
+				"Icon": "chevron.left.slash.chevron.right",
+				"Color": "Violet",
+				"App": "Xcode"
+			},
+			{
+				"Name": "Organizer",
+				"Command": "Command Option Shift O",
+				"Icon": "cube.box.fill",
+				"Color": "Turquoise",
+				"App": "Xcode"
+			},
+			{
+				"Name": "Devices and Simulators",
+				"Command": "Command Shift 2",
+				"Icon": "desktopcomputer",
+				"Color": "Lilac",
+				"App": "Xcode"
+			}
+		]
+	},
+	"Zoom": {
+		"Name": "Zoom",
+		"Icon": "video.fill",
+		"Color": "Violet",
+		"Cards": [
+			{
+				"Name": "Close",
+				"Command": "Command W",
+				"Icon": "xmark.circle",
+				"Color": "Red",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Mute All",
+				"Command": "Command Control M",
+				"Icon": "mic.slash.fill",
+				"Color": "Limestone",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Toggle Zoom",
+				"Command": "Command Shift F",
+				"Icon": "arrow.up.left.and.arrow.down.right",
+				"Color": "Fog",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Share Screen",
+				"Command": "Command Shift S",
+				"Icon": "arrow.up.square.fill",
+				"Color": "Mint",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Record",
+				"Command": "Command Shift R",
+				"Icon": "smallcircle.fill.circle",
+				"Color": "Red",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Participants",
+				"Command": "Command U",
+				"Icon": "person.3.fill",
+				"Color": "Violet",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Toggle Chat",
+				"Command": "Command Shift H",
+				"Icon": "bubble.left.fill",
+				"Color": "Cerulean",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Invite",
+				"Command": "Command I",
+				"Icon": "person.badge.plus",
+				"Color": "Mint",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Toggle Mute",
+				"Command": "Command Shift A",
+				"Icon": "mic.fill",
+				"Color": "Red",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Toggle Video",
+				"Command": "Command Shift V",
+				"Icon": "video.fill",
+				"Color": "Cerulean",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Keyboard",
+				"Shortcut": "Key Command: Threshold",
+				"Input": "input",
+				"Icon": "keyboard",
+				"Color": "Violet"
+			},
+			{
+				"Name": "Return",
+				"Shortcut": "Key Command: Threshold",
+				"Input": "return",
+				"Icon": "return",
+				"Color": "Mint"
+			}
+		]
+	}
+}
