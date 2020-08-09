@@ -1,0 +1,93 @@
+{
+	"Zoom": {
+		"Name": "Zoom",
+		"Icon": "video.fill",
+		"Color": "Violet",
+		"Cards": [
+			{
+				"Name": "Close",
+				"Command": "Command W",
+				"Icon": "xmark.circle",
+				"Color": "Red",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Mute All",
+				"Command": "Command Control M",
+				"Icon": "mic.slash.fill",
+				"Color": "Limestone",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Toggle Zoom",
+				"Command": "Command Shift F",
+				"Icon": "arrow.up.left.and.arrow.down.right",
+				"Color": "Fog",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Share Screen",
+				"Command": "Command Shift S",
+				"Icon": "arrow.up.square.fill",
+				"Color": "Mint",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Record",
+				"Command": "Command Shift R",
+				"Icon": "smallcircle.fill.circle",
+				"Color": "Red",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Participants",
+				"Command": "Command U",
+				"Icon": "person.3.fill",
+				"Color": "Violet",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Toggle Chat",
+				"Command": "Command Shift H",
+				"Icon": "bubble.left.fill",
+				"Color": "Cerulean",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Invite",
+				"Command": "Command I",
+				"Icon": "person.badge.plus",
+				"Color": "Mint",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Toggle Mute",
+				"Command": "Command Shift A",
+				"Icon": "mic.fill",
+				"Color": "Red",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Toggle Video",
+				"Command": "Command Shift V",
+				"Icon": "video.fill",
+				"Color": "Cerulean",
+				"App": "zoom.us"
+			},
+			{
+				"Name": "Keyboard",
+				"Shortcut": "Key Command: Threshold",
+				"Input": "input",
+				"Icon": "keyboard",
+				"Color": "Violet"
+			},
+			{
+				"Name": "Return",
+				"Shortcut": "Key Command: Threshold",
+				"Input": "return",
+				"Icon": "return",
+				"Color": "Mint"
+			}
+		]
+	}
+}
