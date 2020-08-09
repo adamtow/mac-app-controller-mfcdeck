@@ -1,0 +1,176 @@
+"Finder": {
+		"Name": "Finder",
+		"Icon": "macwindow",
+		"Color": "Delft Blue",
+		"Cards": [
+			{
+				"Name": "Keyboard",
+				"Shortcut": "Key Command: Threshold",
+				"Input": "input",
+				"Icon": "keyboard",
+				"Color": "Violet"
+			},
+			{
+				"Name": "Open",
+				"Command": "Command O",
+				"Icon": "arrow.up.right.square",
+				"Color": "Mint",
+				"App": "Finder"
+			},
+			{
+				"Name": "Close",
+				"Command": "Command W",
+				"Icon": "xmark.circle",
+				"Color": "Red",
+				"App": "Finder"
+			},
+			{
+				"Name": "Cycle Windows",
+				"Command": "Command `",
+				"Icon": "rectangle.on.rectangle",
+				"Color": "Pollen",
+				"App": "Finder"
+			},
+			{
+				"Name": "Red",
+				"Command": "Control 1",
+				"Icon": "circle",
+				"Color": "Red",
+				"App": "Finder"
+			},
+			{
+				"Name": "Orange",
+				"Command": "Control 2",
+				"Icon": "circle",
+				"Color": "Vermillion",
+				"App": "Finder"
+			},
+			{
+				"Name": "Yellow",
+				"Command": "Control 3",
+				"Icon": "circle",
+				"Color": "Pollen",
+				"App": "Finder"
+			},
+			{
+				"Name": "Green",
+				"Command": "Control 4",
+				"Icon": "circle",
+				"Color": "Mint",
+				"App": "Finder"
+			},
+			{
+				"Name": "Blue",
+				"Command": "Control 5",
+				"Icon": "circle",
+				"Color": "Delft Blue",
+				"App": "Finder"
+			},
+			{
+				"Name": "Purple",
+				"Command": "Control 6",
+				"Icon": "circle",
+				"Color": "Violet",
+				"App": "Finder"
+			},
+			{
+				"Name": "Gray",
+				"Command": "Control 7",
+				"Icon": "circle",
+				"Color": "Fog",
+				"App": "Finder"
+			},
+			{
+				"Name": "New Finder Window",
+				"Command": "Command N",
+				"Icon": "macwindow",
+				"Color": "Delft Blue",
+				"App": "Finder"
+			},
+			{
+				"Name": "New Folder",
+				"Command": "Command Shift N",
+				"Icon": "folder.fill",
+				"Color": "Mint",
+				"App": "Finder"
+			},
+			{
+				"Name": "Recents",
+				"Command": "Command Shift F",
+				"Icon": "tray.full.fill",
+				"Color": "Fog",
+				"App": "Finder"
+			},
+			{
+				"Name": "Documents",
+				"Command": "Command Shift O",
+				"Icon": "doc.on.doc",
+				"Color": "Limestone",
+				"App": "Finder"
+			},
+			{
+				"Name": "Desktop",
+				"Command": "Command Shift D",
+				"Icon": "rectangle.dock",
+				"Color": "Delft Blue",
+				"App": "Finder"
+			},
+			{
+				"Name": "Downloads",
+				"Command": "Option Command L",
+				"Icon": "arrow.down.circle.fill",
+				"Color": "Violet",
+				"App": "Finder"
+			},
+			{
+				"Name": "Home",
+				"Command": "Command Shift H",
+				"Icon": "house",
+				"Color": "Vermillion",
+				"App": "Finder"
+			},
+			{
+				"Name": "Computer",
+				"Command": "Command Shift C",
+				"Icon": "desktopcomputer",
+				"Color": "Cerulean",
+				"App": "Finder"
+			},
+			{
+				"Name": "AirDrop",
+				"Command": "Command Shift R",
+				"Icon": "dot.radiowaves.left.and.right",
+				"Color": "Pink",
+				"App": "Finder"
+			},
+			{
+				"Name": "Network",
+				"Command": "Command Shift K",
+				"Icon": "globe",
+				"Color": "Delft Blue",
+				"App": "Finder"
+			},
+			{
+				"Name": "iCloud Drive",
+				"Command": "Command Shift I",
+				"Icon": "cloud",
+				"Color": "Limestone",
+				"App": "Finder"
+			},
+			{
+				"Name": "Applications",
+				"Command": "Command Shift A",
+				"Icon": "a.square.fill",
+				"Color": "Red",
+				"App": "Finder"
+			},
+			{
+				"Name": "Utilities",
+				"Command": "Command Shift U",
+				"Icon": "hammer",
+				"Color": "Sand",
+				"App": "Finder"
+			}
+		]
+	}
+}
