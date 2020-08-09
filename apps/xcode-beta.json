@@ -1,0 +1,86 @@
+{
+	"Xcode-beta": {
+		"Name": "Xcode-beta",
+		"Icon": "hammer.fill",
+		"Color": "Delft Blue",
+		"Cards": [
+			{
+				"Name": "Keyboard",
+				"Shortcut": "Key Command: Threshold",
+				"Input": "input",
+				"Icon": "keyboard",
+				"Color": "Violet"
+			},
+			{
+				"Name": "Clean Build Folder",
+				"Command": "Command Shift K",
+				"Icon": "paintbrush.fill",
+				"Color": "Limestone",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Build",
+				"Command": "Command B",
+				"Icon": "Hammer",
+				"Color": "Mint",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Run",
+				"Command": "Command R",
+				"Icon": "play.fill",
+				"Color": "Red",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Archive",
+				"Command": "Command Control Shift Option A",
+				"Icon": "archivebox.fill",
+				"Color": "Pollen",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Commit",
+				"Command": "Command Option C",
+				"Icon": "arrow.up.right.diamond.fill",
+				"Color": "Vermillion",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Find in Workspace",
+				"Command": "Command Shift F",
+				"Icon": "magnifyingglass",
+				"Color": "Light Blue",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Toggle Debug Area",
+				"Command": "Command Shift Y",
+				"Icon": "ant.fill",
+				"Color": "Fog",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Toggle Code Review",
+				"Command": "Command Option Shift return",
+				"Icon": "chevron.left.slash.chevron.right",
+				"Color": "Violet",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Organizer",
+				"Command": "Command Option Shift O",
+				"Icon": "cube.box.fill",
+				"Color": "Turquoise",
+				"App": "Xcode-beta"
+			},
+			{
+				"Name": "Devices and Simulators",
+				"Command": "Command Shift 2",
+				"Icon": "desktopcomputer",
+				"Color": "Lilac",
+				"App": "Xcode-beta"
+			}
+		]
+	}
+}
