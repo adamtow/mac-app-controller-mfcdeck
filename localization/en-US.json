@@ -16,6 +16,8 @@
 		"menu_quit": "Quit",
 		"menu_replace": "Replace Deck",
 		"menu_update": "Check for Updates…",
+		"menu_update_later": "Update Later",
+		"menu_update_now": "Update Now…",
 		"prompt_deck_created": "Deck Created",
 		"prompt_name_exists": "Deck with that name already exists. Enter a new name or replace the existing deck?",
 		"prompt_name": "Enter name of deck",
