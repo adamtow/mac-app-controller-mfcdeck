@@ -6,6 +6,7 @@
 		"alert_key_command_missing": "There is no shortcut based on MFC Deck Key Command on this iOS device with that name.\n\nYou will be unable to send key commands to a macOS computer without it.\n\nhttps://mfcdeck.com/key-command/",
 		"alert_name": "Deck name is required.",
 		"alert_update_none": "You are running the latest version of this shortcut.",
+		"menu_about": "About",
 		"menu_get": "Get MFC Deck",
 		"menu_help": "Help…",
 		"menu_home": "Return to Main Menu",
